@@ -1,4 +1,19 @@
-# About-Me
-I am Sajid Jailani a rising sophomore at Texas A&M. I'm a Computer Engineer, and I love working with circuits, AI, and code.
+# Sajid Jailani - Personal Dashboard
 
-I enjoy working on Arduinos, building apps, and researching AI.
+## Description
+A personal about-me webpage built using HTML and CSS.
+
+## Features
+- About Me section
+- Goals section
+- Links section
+- Custom dark theme styling
+- Responsive centered card layout
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## How to Run
+1. Download or clone the repository
+2. Open `index.html` in a browser
