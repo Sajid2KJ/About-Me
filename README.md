@@ -8,6 +8,7 @@ A personal about-me webpage built using HTML and CSS.
 - Goals section
 - Links section
 - Custom dark theme styling
+- Responsive centered card layout
 
 ## Technologies Used
 - HTML
