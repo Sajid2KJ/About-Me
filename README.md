@@ -1,18 +1,19 @@
-# Sajid Jailani - Personal Dashboard
+# Neuro Planner
 
 ## Description
-A personal about-me webpage built using HTML and CSS.
+A shedule planner specifically created to make it easier to initiate and continue tasks
 
 ## Features
-- About Me section
-- Goals section
-- Links section
-- Custom dark theme styling
+- Home page
+- Planned activities
+- Calendar
+- Custom  styling
 - Responsive centered card layout
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
+- JS
 
 ## How to Run
 1. Download or clone the repository
